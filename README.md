@@ -5,7 +5,7 @@ This project can identify the result of Texas hold'em Poker
 
 >[Rule of Texas hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em)
 
-####Second, open the two pdf files to learn the structure of program.
+####Second, open the two pdf files to learn about the structure of program.
 
 >[Introduction](https://github.com/ChiLunHuang/2015SCU-Class-for-poker/blob/master/Introduction.pdf)
 
@@ -16,7 +16,7 @@ This project can identify the result of Texas hold'em Poker
 
 # Some example pictures for this Project
 
-#### Design the code for poker 
+#### Design the codes for pokers 
 
 ![alt tag](https://github.com/ChiLunHuang/2015SCU-Class-for-poker/blob/master/img/code.jpg)
 
