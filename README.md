@@ -11,7 +11,7 @@ This project can identify the result of Texas hold'em Poker
 
 >[Introduction 2](https://github.com/ChiLunHuang/2015SCU-Class-for-poker/blob/master/Introduction2.pdf)
 
-####Finally, you can start to run the program. 
+####Finally, you can start to run the program in the poker file. 
 
 
 # Some example pictures for this Project
